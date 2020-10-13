@@ -1,6 +1,6 @@
 baseURL: "https://leyagueydan.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "leyagueydan"
 
 module:
   imports:
